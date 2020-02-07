@@ -1,6 +1,6 @@
 baseURL = "https://katamotokosuke.github.io/site-demo"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "hugo-classic"
+theme = "forty"
 publishDir = "docs"
 canonifyurls = true
