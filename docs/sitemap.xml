@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://katamotokosuke.github.io/site-demo/</loc>
-    <lastmod>2020-02-07T21:23:12+09:00</lastmod>
+    <loc>https://katamotokosuke.github.io/site-demo/post/</loc>
+    <lastmod>2020-02-07T23:17:15+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katamotokosuke.github.io/site-demo/post/</loc>
-    <lastmod>2020-02-07T21:23:12+09:00</lastmod>
+    <loc>https://katamotokosuke.github.io/site-demo/post/test/</loc>
+    <lastmod>2020-02-07T23:17:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katamotokosuke.github.io/site-demo/</loc>
+    <lastmod>2020-02-07T23:17:15+09:00</lastmod>
   </url>
   
   <url>
